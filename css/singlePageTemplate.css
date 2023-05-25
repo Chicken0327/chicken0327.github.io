@@ -163,7 +163,7 @@ ul li:hover a {
 	margin-top: 0px;
 }
 .parallax_description {
-	color: #FFFFFF;
+	color: #FAAAAA;
 	text-align: right;
 	padding-right: 100px;
 	width: 30%;
@@ -187,11 +187,11 @@ footer {
 	float: left;
 }
 footer .footer_column h3 {
-	color: #B3B3B3;
+	color: #B3FFF3;
 	text-align: center;
 }
 footer .footer_column p {
-	color: #717070;
+	color: #717143;
 	background-color: #FFFFFF;
 }
 .cards {
