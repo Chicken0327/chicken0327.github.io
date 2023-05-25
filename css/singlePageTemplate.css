@@ -2,7 +2,7 @@
 /* Body */
 body {
 	font-family: source-sans-pro;
-	background-color: #f2f2f2;
+	background-color: #f4f5f2;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
@@ -60,7 +60,7 @@ ul li a {
 	text-decoration: none;
 }
 ul li:hover a {
-	color: #2C9AB7;
+	color: #2C9DD7;
 }
 .hero_header {
 	color: #FFFFFF;
@@ -98,7 +98,7 @@ ul li:hover a {
 	float: left;
 	padding-left: 20px;
 	padding-right: 20px;
-	color: #A3A3A3;
+	color: #A4A4A4;
 }
 .about {
 	padding-left: 25px;
@@ -110,7 +110,7 @@ ul li:hover a {
 }
 /* Stats Gallery */
 .stats {
-	color: #717070;
+	color: #717110;
 	margin-bottom: 5px;
 }
 .gallery {
